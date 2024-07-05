@@ -4,8 +4,8 @@
     "proyectos": "Tienda HTML",
     "descripcion": "Tienda se uso HTML, boostrap, JS y CSS",
     "botones":{
-      "ruta_git":"https://github.com/punky-1/tienda-",
-      "ruta_ver":"https://punky-1.github.io/tienda-/"
+      "ruta_git":"https://github.com/punkyDeveloper/tienda",
+      "ruta_ver":"https://punkydeveloper.github.io/tienda/"
     }
   },
   {
@@ -13,13 +13,13 @@
     "proyectos": "landin-pege",
     "descripcion": "landin-pege se uso HTML, Boostrap, JS y CSS",
     "botones":{
-      "ruta_git":"",
-      "ruta_ver":""
+      "ruta_git":"https://github.com/punkyDeveloper/landin-pege",
+      "ruta_ver":"https://punkydeveloper.github.io/landin-pege/"
     }
   },
   {
     "img":"img",
-    "proyectos": "store-sena",
+    "proyectos": "Store-sena",
     "descripcion": "tailwindcss, mongodb, node, express, EJS, Boostrap, JS y CSS ",
     "botones":{
       "ruta_git":"",
@@ -31,8 +31,8 @@
     "proyectos": "Desencriptador y encriptador",
     "descripcion": "Se uso html css y js",
     "botones":{
-      "ruta_git":"https://github.com/punky-1/desencriptador",
-      "ruta_ver":"https://punky-1.github.io/desencriptador/"
+      "ruta_git":"https://github.com/punkyDeveloper/desencriptador",
+      "ruta_ver":"https://punkydeveloper.github.io/desencriptador/"
     }
   },
   {
@@ -40,8 +40,8 @@
     "proyectos": "Centro veterinario",
     "descripcion": "Se uso HTML, Boostrap, JS y CSS",
     "botones":{
-      "ruta_git":"https://github.com/punky-1/centro-veterinario",
-      "ruta_ver":"https://punky-1.github.io/centro-veterinario/"
+      "ruta_git":"https://github.com/punkyDeveloper/centro-veterinario",
+      "ruta_ver":"https://punkydeveloper.github.io/centro-veterinario/"
     }
   },
   {
@@ -49,17 +49,17 @@
     "proyectos": "Pausas activas",
     "descripcion": "Se uso HTML, Boostrap y CSS",
     "botones":{
-      "ruta_git":"https://github.com/punky-11/pausas-activas",
-      "ruta_ver":"https://punky-11.github.io/pausas-activas/"
+      "ruta_git":"",
+      "ruta_ver":""
     }
   },
   {
     "img":"./img/Captura de pantalla 2024-03-19 152017.png",
-    "proyectos": "alura-geek",
+    "proyectos": "Alura-geek",
     "descripcion": "Se uso HTML, JS, Boostrap y CSS",
     "botones":{
-      "ruta_git":"https://github.com/punky-11/alura-geek",
-      "ruta_ver":"https://punky-11.github.io/alura-geek/"
+      "ruta_git":"",
+      "ruta_ver":""
     }
   },
   {
@@ -67,7 +67,7 @@
     "proyectos": "sl-Soft",
     "descripcion": "mongodb, node, express, EJS, Boostrap, JS y CSS ",
     "botones":{
-      "ruta_git":"https://github.com/punky-11/sl-soft-p",
+      "ruta_git":"",
       "ruta_ver":""
     }
   }
