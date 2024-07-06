@@ -14,4 +14,3 @@ fetch('./json/lenguajes.json')
 
       })
 .catch(err => console.log('Solicitud fallida', err)); 
-console.log("hola")
