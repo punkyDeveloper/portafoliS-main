@@ -1,6 +1,6 @@
 [
   {
-    "img" : "./img/Captura de pantalla 2024-03-19 115846.png",
+    "img" : "./img/proyectos/TiendaHTML.png",
     "proyectos": "Tienda HTML",
     "descripcion": "Tienda se uso HTML, boostrap, JS y CSS",
     "botones":{
@@ -9,7 +9,7 @@
     }
   },
   {
-    "img":"./img/Captura de pantalla 2024-03-19 121446.png",
+    "img":"./img/proyectos/landin-pege.png",
     "proyectos": "landin-pege",
     "descripcion": "landin-pege se uso HTML, Boostrap, JS y CSS",
     "botones":{
@@ -27,7 +27,7 @@
     }
   },
   {
-    "img":"./img/Captura de pantalla 2024-03-19 123544.png",
+    "img":"./img/proyectos/Desencriptador-y-encriptador.png",
     "proyectos": "Desencriptador y encriptador",
     "descripcion": "Se uso html css y js",
     "botones":{
@@ -36,7 +36,7 @@
     }
   },
   {
-    "img":"./img/Captura de pantalla 2024-03-19 124038.png",
+    "img":"./img/proyectos/Centroveterinario.png",
     "proyectos": "Centro veterinario",
     "descripcion": "Se uso HTML, Boostrap, JS y CSS",
     "botones":{
@@ -45,7 +45,7 @@
     }
   },
   {
-    "img":"./img/Captura de pantalla 2024-03-19 151732.png",
+    "img":"./img/proyectos/Pausasactivas.png",
     "proyectos": "Pausas activas",
     "descripcion": "Se uso HTML, Boostrap y CSS",
     "botones":{
@@ -54,7 +54,7 @@
     }
   },
   {
-    "img":"./img/Captura de pantalla 2024-03-19 152017.png",
+    "img":"./img/proyectos/Alura-geek.png",
     "proyectos": "Alura-geek",
     "descripcion": "Se uso HTML, JS, Boostrap y CSS",
     "botones":{
