@@ -7,7 +7,7 @@ export default function ContactForm() {
     name: "",
     email: "",
     message: "",
-    s
+
   });
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {

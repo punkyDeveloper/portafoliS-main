@@ -42,9 +42,12 @@ const AnimatedTestimonialsDemo: React.FC = () => {
   const isActive = (index: number) => index === active;
 
   useEffect(() => {
-    const interval = setInterval(handleNext, 5000);
+    const interval = setInterval(() => {
+      setActive((prev) => (prev + 1) % testimonials.length);
+    }, 5000);
     return () => clearInterval(interval);
-  }, []);
+  }, [testimonials.length]);
+  
 
   const randomRotateY = () => Math.floor(Math.random() * 21) - 10;
 
