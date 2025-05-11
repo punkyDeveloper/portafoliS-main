@@ -3,6 +3,7 @@
 import { IconArrowLeft, IconArrowRight } from "@tabler/icons-react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
+import foto from "../../img/foto.jpeg";
 import { useEffect, useState } from "react";
 
 function cn(...classes: (string | boolean | undefined | null)[]) {
@@ -25,7 +26,7 @@ const AnimatedTestimonialsDemo: React.FC = () => {
         "Combino front-end, back-end y QA para crear soluciones web y móviles eficientes, confiables y centradas en el usuario. Trabajo con tecnologías modernas, metodologías ágiles y una mentalidad orientada a resultados.",
       name: "Santiago Hernandez",
       designation: "Desarrolladora full stack || QA",
-      src: "/img/foto.jpeg", // imagen dentro de /public/img
+      src: "/img/foto.jpeg",
     },
   ];
 
@@ -87,7 +88,7 @@ const AnimatedTestimonialsDemo: React.FC = () => {
                   className="absolute inset-0 origin-bottom"
                 >
                   <Image
-                    src={testimonial.src}
+                    src={foto}
                     alt={testimonial.name}
                     width={500}
                     height={500}
